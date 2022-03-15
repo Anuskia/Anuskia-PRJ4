@@ -1,16 +1,15 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	color: #2F0459;
-	background-color: #D7928F;
+	background-image: linear-gradient(#FFB6C1, white);
 }
-
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
@@ -51,4 +50,23 @@ body {
 }
 .language-progress {
 	background-color:#D9BAD1;
+}
+a:link {
+color: #4B0082;
+}
+
+a:visited {
+color: #EE82EE;
+}
+
+a:hover {
+color: 	#BA55D3;
+text-shadow: 2px 2px 2px #BA55D3;
+}
+h1 {
+    font-family: 'Lexend Tera', sans-serif;
+    font-size: 60px;
+    color: #E98D81;
+    text-shadow: 5px 5px #D8A3CA;
+    text-transform: uppercase;
 }
