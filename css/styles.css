@@ -1,13 +1,13 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Radio+Canada&display=swap');
 
 
 /* Styles for the body */
 
 body {
-    font-family:'Lato', sans-serif;
+    font-family:'Radio Canada', sans-serif;
     color: #2F0459;
     background-image: linear-gradient(#FFB6C1, white);
 }
@@ -65,7 +65,7 @@ color: 	#BA55D3;
 text-shadow: 2px 2px 2px #BA55D3;
 }
 h1 {
-    font-family: 'Lexend Tera', sans-serif;
+    font-family:'Radio Canada', sans-serif;
     font-size: 60px;
     color: #E98D81;
     text-shadow: 5px 5px #D8A3CA;
